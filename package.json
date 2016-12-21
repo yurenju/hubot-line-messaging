@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "hubot": "^2.19.0",
+    "lodash": "^4.17.2",
     "parent-require": "^1.0.0"
   },
   "peerDependencies": {
